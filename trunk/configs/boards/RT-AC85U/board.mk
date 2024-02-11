@@ -4,6 +4,6 @@
 # RT-AC85P   # RT-AC85P          # MT7621  #
 ##################################################################
 
-CFLAGS += -DBOARD_RT_AC85P -DVENDOR_ASUS
+CFLAGS += -DBOARD_RT_AC85U -DVENDOR_ASUS
 BOARD_NUM_USB_PORTS=1
 CONFIG_BOARD_RAM_SIZE=256
