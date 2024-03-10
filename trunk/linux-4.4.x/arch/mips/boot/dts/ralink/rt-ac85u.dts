@@ -10,7 +10,7 @@
 	model = "ASUS RT-AC85U";
 
 	chosen {
-		bootargs = "console=ttyS0,115200";
+		bootargs = "console=ttyS0,57600";
 	};
 
 	leds {
